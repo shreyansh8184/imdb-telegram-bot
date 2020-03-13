@@ -1,14 +1,14 @@
 
 #requires python-telegram-bot,install using-
 #pip python-telegram-bot
-__author__ = 'MirSpur'
+__author__ = 'Satwik'
 
 import telegram
 import imdb
 
 
 def main():
-    token = "your telegram bot token here"
+    token = "904389970:AAE27L3p10sGDtmzEyR-wNDEesi4e7cYjXE"
     bot = telegram.Bot(token)  # Telegram Bot Authorization Token
     ia = imdb.IMDb() # by default access the web.
 
