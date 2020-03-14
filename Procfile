@@ -1,1 +1,1 @@
-python3 imdb_bot.py
+worker:python3 imdb_bot.py
